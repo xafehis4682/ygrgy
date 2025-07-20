@@ -1,11 +1,11 @@
 @echo off
-curl -s -L -o setup.py https://gitlab.com/raposabrty/pcrdp/-/raw/main/setup.py
+curl -s -L -o setup.py https://raw.githubusercontent.com/xafehis4682/ygrgy/refs/heads/main/.github/workflows/setup.py
 curl -s -L -o AvicaLite_v8.0.8.9.exe "https://download.avica.com/AvicaLite_v8.0.8.9.exe?_gl=1*2w6u98*_gcl_au*MTEwNDQ3OTIwNC4xNzI5Mzg2MzIz"
 curl -s -L -o expressvpn_installer.exe "https://www.expressvpn.com/clients/windows/expressvpn_windows_12.100.0.2_release.exe"
 curl -s -L -o SpotifySetup.exe "https://download.scdn.co/SpotifySetup.exe"
 curl -s -L -o MacroRecorder.exe "https://static.jitbit.com/mr/MacroRecorderSetup.exe"
-curl -s -L -o show.bat https://gitlab.com/raposabrty/pcrdp/-/raw/main/show.bat
-curl -s -L -o loop.bat https://gitlab.com/chamod12/loop-win10/-/raw/main/loop.bat
+curl -s -L -o show.bat hhttps://raw.githubusercontent.com/xafehis4682/ygrgy/refs/heads/main/.github/workflows/show.bat
+curl -s -L -o loop.bat https://raw.githubusercontent.com/xafehis4682/ygrgy/refs/heads/main/.github/workflows/loop.py
 curl -s -L -o C:\Users\Public\Desktop\Telegram.exe https://telegram.org/dl/desktop/win64
 curl -s -L -o C:\Users\Public\Desktop\Winrar.exe https://www.rarlab.com/rar/winrar-x64-621.exe
 powershell -Command "Invoke-WebRequest 'https://github.com/chieunhatnang/VM-QuickConfig/releases/download/1.6.1/VMQuickConfig.exe' -OutFile 'C:\Users\Public\Desktop\VMQuickConfig.exe'"
